@@ -1,4 +1,3 @@
-"""Generate publication-friendly plots strictly from actual experiment outputs."""
 import argparse,csv,json
 from pathlib import Path
 import matplotlib;matplotlib.use('Agg')
