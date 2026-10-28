@@ -1,4 +1,3 @@
-"""Check manifest integrity, split leakage, continuity, dataset overlaps and masks."""
 import argparse
 from collections import defaultdict,Counter
 from pathlib import Path
