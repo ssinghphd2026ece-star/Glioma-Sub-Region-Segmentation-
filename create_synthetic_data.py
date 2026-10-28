@@ -1,4 +1,3 @@
-"""Tiny artificial H5 dataset for pipeline smoke tests; NEVER scientific results."""
 import argparse,csv
 from pathlib import Path
 import h5py,numpy as np
