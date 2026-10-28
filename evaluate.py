@@ -1,4 +1,3 @@
-"""Evaluate complete patient volumes; supports test and external dataset manifests."""
 import argparse
 from pathlib import Path
 import numpy as np
