@@ -12,7 +12,6 @@
 | Tuning | Validation-only region thresholds and component filtering | Coordinate search, grid 0.3..0.7 and 0/10/50/100 native voxels | 
 | Metrics | Complete patient volumes, mean per patient, physical HD95 | 3D volumes with original H5 H/W and supplied voxel spacing | 
 | Seeds | 42, 123, 256, 512, 1024 | Same five-seed list |
-| Dice | 0.8982 in tables; 0.8915 elsewhere | Reports measured values only |
 | Parameters | 10.90M, 24.8 GFLOPs | Measured by `scripts.profile` with selected THOP convention | 
 | Cross dataset | BraTS2019 and BraTS2021 untuned | Separate test manifests, unchanged checkpoint/calibration |
 
