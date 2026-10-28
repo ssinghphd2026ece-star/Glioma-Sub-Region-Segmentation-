@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying manuscript and the BraTS challenge dataset papers."
+title: "Independent reconstruction of Role-Separated Dual-Attention Residual ASPP U-Net"
+type: software
+authors:
+  - name: "Independent reproduction implementation"
+abstract: "Reconstructed research pipeline; not original author source or verified original results."

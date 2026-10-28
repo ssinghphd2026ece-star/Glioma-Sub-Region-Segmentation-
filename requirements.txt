@@ -1,0 +1,7 @@
+torch>=2.3,<3
+numpy>=1.26,<3
+h5py>=3.10,<4
+scipy>=1.12,<2
+matplotlib>=3.8,<4
+pytest>=8,<10
+thop>=0.1.1
